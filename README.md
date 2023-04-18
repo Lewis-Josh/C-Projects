@@ -1,1 +1,1 @@
-C++ Projects
+This is a C++ Project which will read a .txt file for a list of items, it will calculate the frequencies using maps and can also sort the data with a histogram. It has a fully functioning menu and exit function so the program can exit gracefully.
